@@ -1,0 +1,8 @@
+Physician: Good morning, Mr. Ramesh. How are you feeling today?
+Patient: I still have some pain in my neck and shoulder after the accident last week.
+Physician: I see. Any dizziness or headaches?
+Patient: Yes, mild headaches but no dizziness.
+Physician: It sounds like you’re experiencing muscle strain and possibly mild whiplash.
+Physician: I’ll recommend ten physiotherapy sessions and some pain medication.
+Patient: Okay, thank you. When can I expect to recover fully?
+Physician: Within six weeks you should see full recovery with consistent therapy.

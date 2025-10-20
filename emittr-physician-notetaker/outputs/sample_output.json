@@ -1,0 +1,28 @@
+{
+  "Patient_Name": "I",
+  "Symptoms": [],
+  "Diagnosis": "whiplash",
+  "Treatment": [
+    "physiotherapy"
+  ],
+  "Current_Status": "Not specified",
+  "Prognosis": "full recovery",
+  "extraction_provenance": {
+    "Symptoms": {
+      "method": "entity_ruler",
+      "confidence": 1.0
+    },
+    "Diagnosis": {
+      "method": "entity_ruler",
+      "confidence": 1.0
+    },
+    "Treatment": {
+      "method": "entity_ruler",
+      "confidence": 1.0
+    },
+    "Prognosis": {
+      "method": "entity_ruler",
+      "confidence": 1.0
+    }
+  }
+}

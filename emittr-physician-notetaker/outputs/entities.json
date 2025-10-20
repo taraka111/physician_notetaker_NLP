@@ -1,0 +1,50 @@
+[
+  {
+    "text": "Ramesh",
+    "label": "PERSON",
+    "confidence": 1.0,
+    "method": "entity_ruler"
+  },
+  {
+    "text": "today",
+    "label": "DATE",
+    "confidence": 1.0,
+    "method": "entity_ruler"
+  },
+  {
+    "text": "last week",
+    "label": "DATE",
+    "confidence": 1.0,
+    "method": "entity_ruler"
+  },
+  {
+    "text": "whiplash",
+    "label": "DIAGNOSIS",
+    "confidence": 1.0,
+    "method": "entity_ruler"
+  },
+  {
+    "text": "ten",
+    "label": "CARDINAL",
+    "confidence": 1.0,
+    "method": "entity_ruler"
+  },
+  {
+    "text": "physiotherapy",
+    "label": "TREATMENT",
+    "confidence": 1.0,
+    "method": "entity_ruler"
+  },
+  {
+    "text": "six weeks",
+    "label": "DATE",
+    "confidence": 1.0,
+    "method": "entity_ruler"
+  },
+  {
+    "text": "full recovery",
+    "label": "PROGNOSIS",
+    "confidence": 1.0,
+    "method": "entity_ruler"
+  }
+]

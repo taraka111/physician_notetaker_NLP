@@ -1,0 +1,24 @@
+{
+  "Subjective": {
+    "Notes": [
+      "Good morning, Mr. Ramesh. How are you feeling today?",
+      "I still have some pain in my neck and shoulder after the accident last week.",
+      "I see. Any dizziness or headaches?",
+      "Yes, mild headaches but no dizziness.",
+      "I\u00e2\u20ac\u2122ll recommend ten physiotherapy sessions and some pain medication.",
+      "Okay, thank you. When can I expect to recover fully?",
+      "Within six weeks you should see full recovery with consistent therapy."
+    ]
+  },
+  "Objective": {
+    "Notes": []
+  },
+  "Assessment": {
+    "Notes": [
+      "It sounds like you\u00e2\u20ac\u2122re experiencing muscle strain and possibly mild whiplash."
+    ]
+  },
+  "Plan": {
+    "Notes": []
+  }
+}

@@ -1,0 +1,20 @@
+[
+  {
+    "utterance": "I still have some pain in my neck and shoulder after the accident last week.",
+    "Sentiment": "Anxious",
+    "Intent": "Reporting symptoms",
+    "confidence": 0.607484757900238
+  },
+  {
+    "utterance": "Yes, mild headaches but no dizziness.",
+    "Sentiment": "Reassured",
+    "Intent": "Reporting symptoms",
+    "confidence": 0.7191980481147766
+  },
+  {
+    "utterance": "Okay, thank you. When can I expect to recover fully?",
+    "Sentiment": "Reassured",
+    "Intent": "Seeking reassurance",
+    "confidence": 0.7082836031913757
+  }
+]

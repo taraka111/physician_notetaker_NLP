@@ -1,0 +1,34 @@
+[
+  {
+    "speaker": "Physician",
+    "text": "Good morning, Mr. Ramesh. How are you feeling today?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I still have some pain in my neck and shoulder after the accident last week."
+  },
+  {
+    "speaker": "Physician",
+    "text": "I see. Any dizziness or headaches?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "Yes, mild headaches but no dizziness."
+  },
+  {
+    "speaker": "Physician",
+    "text": "It sounds like you\u00e2\u20ac\u2122re experiencing muscle strain and possibly mild whiplash."
+  },
+  {
+    "speaker": "Physician",
+    "text": "I\u00e2\u20ac\u2122ll recommend ten physiotherapy sessions and some pain medication."
+  },
+  {
+    "speaker": "Patient",
+    "text": "Okay, thank you. When can I expect to recover fully?"
+  },
+  {
+    "speaker": "Physician",
+    "text": "Within six weeks you should see full recovery with consistent therapy."
+  }
+]
