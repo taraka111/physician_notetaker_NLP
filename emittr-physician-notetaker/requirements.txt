@@ -1,8 +1,23 @@
-spacy==3.6.0
-transformers==4.40.0
-torch==2.2.0
-scikit-learn
-pandas
+# Core dependencies
 numpy
-sentence-transformers
-jupyterlab
+pandas
+scikit-learn
+nltk
+spacy
+transformers
+torch
+sentencepiece
+
+# For summarization and NLP tasks
+textblob
+openai
+tqdm
+
+# Utilities
+json5
+regex
+requests
+
+# Notebook and environment tools
+jupyter
+ipykernel
