@@ -8,7 +8,7 @@ It focuses on building an AI-powered NLP pipeline for medical conversations — 
 
 *The goal of this project is to demonstrate understanding of Natural Language Processing (NLP) techniques, transformer-based AI models, and data structuring for healthcare text.
 
-                                   The pipeline performs the following tasks:
+The pipeline performs the following tasks:
 
 1.Entity Extraction (NER): Detects medical entities like symptoms, diagnosis, treatment, and prognosis.
 
@@ -49,7 +49,7 @@ emittr-physician-notetaker/
 **Setup Instructions**
 
 1. Clone or download the project
-   git clone https://github.com/<your-username>/emittr-physician-notetaker.git
+   git clone https://github.com/taraka111/physician_notetaker_NLP.git
    cd emittr-physician-notetaker
 
 2. Create a virtual Environment
